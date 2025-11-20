@@ -1,7 +1,9 @@
 {
   "videos": [
-    { "palavra": "bom dia", "categoria": "cumprimentos", "arquivo": "bom_dia.mp4" },
-    { "palavra": "cola", "categoria": "escola", "arquivo": "cola.mp4" },
-    { "palavra": "você", "categoria": "pronomes", "arquivo": "voce.mp4" }
+    {
+      "palavra": "cola",
+      "categoria": "escola",
+      "url": "https://chequinato.github.io/libras-viideos-db/videos/cola.mp4"
+    }
   ]
 }
